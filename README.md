@@ -16,3 +16,6 @@ A responsive landing page inspired by Adidas, designed to practice modern layout
 - index.html
 - style.css
 - images/
+
+## 📸 Screenshots
+![Project Screenshot](screenshot.png)
